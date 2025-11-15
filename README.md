@@ -86,6 +86,26 @@ This repository guides you through 12 weeks of structured, project-based learnin
 - “Convert this JavaScript snippet into safe TypeScript.”
 - “What’s the right way to type an async function returning JSON?”
 
+
+## 🧭 Optional Track — C# (dotnet)
+
+### 🧩 Key Concepts
+- Static typing, classes, structs and interfaces
+- The .NET runtime and the `dotnet` CLI; assemblies and packages (NuGet)
+- LINQ, async/await and Task-based concurrency
+- Dependency injection and configuration in .NET apps
+- Building Web APIs with ASP.NET Core and JSON serialization
+
+### 🛠️ Projects
+1. **C# Console Calculator** — practice parsing CLI args, exception handling, and unit testing with a small console app.
+2. **Contact Manager (C#)** — use classes and lists, persist to JSON or a simple file, and practice CRUD operations.
+3. **Task Tracker API** — build a minimal ASP.NET Core Web API (in-memory store) to learn routing, controllers, and JSON endpoints.
+
+### 🧠 AI Practice Prompts
+- “Show an idiomatic C# async method that fetches JSON and deserializes it.”
+- “How can I use dependency injection in a simple console or web app?”
+- “Convert this LINQ query to an imperative loop and explain the tradeoffs.”
+
 ---
 
 ## ⚛️ Weeks 10–12 — Learn React
@@ -134,6 +154,7 @@ This repository guides you through 12 weeks of structured, project-based learnin
 - **Git + GitHub** for version control.  
 - **Homebrew** to install dependencies on macOS.  
 - **Postman or cURL** for testing APIs.
+ - **.NET SDK** (`dotnet`) and the C# extension for VS Code (for building and running C# projects).  
 
 ---
 
