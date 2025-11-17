@@ -15,18 +15,7 @@ This repository guides you through 12 weeks of structured, project-based learnin
 
 ---
 
-## 🗓️ 12-Week Roadmap Overview
-
-| Phase | Language | Focus | Outcome |
-|-------|-----------|--------|----------|
-| Weeks 1–3 | Python | Programming basics & logic | Build 3 mini-projects |
-| Weeks 4–6 | Go | Strong typing & concurrency fundamentals | Create CLI + REST API |
-| Weeks 7–9 | TypeScript | Type safety & JavaScript ecosystem | Build CLI + API tools |
-| Weeks 10–12 | React | Frontend development & UI composition | Build interactive UIs |
-
----
-
-## 🐍 Weeks 1–3 — Learn Python Fundamentals
+## 🐍 Python Fundamentals
 
 ### 🧩 Key Concepts
 - Variables, data types, loops, conditionals
@@ -35,11 +24,6 @@ This repository guides you through 12 weeks of structured, project-based learnin
 - File handling
 - Error handling
 
-### 🛠️ Projects
-1. **Simple Calculator (Week 1)** — practice input/output and arithmetic logic.  
-2. **To-Do List CLI (Week 2)** — handle files, lists, and basic CRUD.  
-3. **Expense Tracker (Week 3)** — read/write CSV, format text output.
-
 ### 🧠 AI Practice Prompts
 - “Explain why a for-loop is better than a while-loop here.”
 - “How can I refactor this to make it more modular?”
@@ -47,7 +31,7 @@ This repository guides you through 12 weeks of structured, project-based learnin
 
 ---
 
-## 🦫 Weeks 4–6 — Learn Go (Golang)
+## 🦫 Go (Golang)
 
 ### 🧩 Key Concepts
 - Static typing, structs, interfaces
@@ -55,10 +39,6 @@ This repository guides you through 12 weeks of structured, project-based learnin
 - Error handling and concurrency (goroutines, channels)
 - HTTP and JSON handling
 
-### 🛠️ Projects
-1. **Word Counter CLI (Week 4)** — file parsing and text processing.  
-2. **Contact Manager (Week 5)** — structs, slices, and error handling.  
-3. **Task Tracker API (Week 6)** — build a simple REST API with `net/http`.
 
 ### 🧠 AI Practice Prompts
 - “Help me write idiomatic Go code.”
@@ -67,7 +47,7 @@ This repository guides you through 12 weeks of structured, project-based learnin
 
 ---
 
-## ⚙️ Weeks 7–9 — Learn TypeScript
+## ⚙️ TypeScript
 
 ### 🧩 Key Concepts
 - Type annotations and interfaces
@@ -76,10 +56,6 @@ This repository guides you through 12 weeks of structured, project-based learnin
 - Working with APIs (fetch, async/await)
 - Basic Node.js CLI development
 
-### 🛠️ Projects
-1. **Math Utilities Library (Week 7)** — build a small module with reusable functions.  
-2. **API Fetch Tool (Week 8)** — fetch and display REST API data.  
-3. **Weather CLI (Week 9)** — consume an API and display formatted terminal output.
 
 ### 🧠 AI Practice Prompts
 - “Explain what this TypeScript error means.”
@@ -87,7 +63,7 @@ This repository guides you through 12 weeks of structured, project-based learnin
 - “What’s the right way to type an async function returning JSON?”
 
 
-## 🧭 Optional Track — C# (dotnet)
+## C# (dotnet)
 
 ### 🧩 Key Concepts
 - Static typing, classes, structs and interfaces
@@ -176,5 +152,3 @@ When you’ve completed all 12 weeks, you’ll be able to:
 - Continue to use AI — but always verify and understand what it produces.
 
 ---
-
-Made with ❤️ for curious developers who want to master fundamentals, not just frameworks.
